@@ -61,12 +61,16 @@ Something about me:
 
 </p>
 
-### Connect with me:
+### Find me elsewhere:
 
 <p align="left">
 
   <a href="https://www.linkedin.com/in/norman-data-economist/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+  </a>
+  
+   <a href="https://www.youtube.com/channel/UCMD6Uyi4O9htyHuNsbbTI5Q">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/youTube.svg" alt="Youtube" style="vertical-align:top; margin:4px">
   </a>
 
 </p>
