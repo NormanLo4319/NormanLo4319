@@ -1,6 +1,6 @@
-### Hi, I'm Norman! 👋
+## Norman Lo - @ NormanLo4319
 
-Something about me:
+#### Something about me:
 
 - 🔭 I’m currently working on building different machine learning web applications.
 - 🌱 I’m currently learning several advance data analytic tools, such as Hadoop and Apache Spark.
