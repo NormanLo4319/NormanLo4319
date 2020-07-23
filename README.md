@@ -1,5 +1,7 @@
 ## Norman Lo - @NormanLo4319 :octocat:
 
+@NormanLo4319
+
 I am a driven data scientist with industry experience and ability to develop powerful business insights and deploy digital products using statistical and data mining techniques.  I am passionate to explore relationships between different metrics and translate digits and spreadsheets into stories.  In the age of big data, these stories become actionable solutions and strategies for businesses, and I take pride in my ability to make data accessible to both executive decision-makers and front-line operation staff.  
 
 ## Something about me:
