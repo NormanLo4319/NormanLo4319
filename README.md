@@ -1,6 +1,6 @@
 ## Norman Lo :octocat:
 
-I am a driven data scientist with industry experience and ability to develop powerful business insights and deploy digital products using statistical and data mining techniques.  I am passionate to explore relationships between different metrics and translate digits and spreadsheets into stories.  In the age of big data, these stories become actionable solutions and strategies for businesses, and I take pride in my ability to make data accessible to both executive decision-makers and front-line operation staff.  
+I am a driven data scientist with industry experience and the ability to develop powerful business insights and deploy digital products using statistical and data mining techniques.  I am passionate to explore relationships between different metrics and translate digits and spreadsheets into stories.  In the age of big data, these stories become actionable solutions and strategies for businesses, and I take pride in my ability to make data accessible to both executive decision-makers and front-line operation staff.  
 
 ## Something about me:
 
@@ -9,7 +9,7 @@ I am a driven data scientist with industry experience and ability to develop pow
 - 👯 I’m looking to collaborate on data mining, machine learning, or Economics research projects.
 - 💬 Ask me about Economics, Statistics, and Data Mining.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'd taught ESL in South Korea for 3 years.
+- ⚡ Fun fact: I've taught ESL in South Korea for 3 years.
 
 <br />
 
